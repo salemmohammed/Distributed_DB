@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
-	"fmt"
+	//"fmt"
 	"github.com/salemmohammed/PaxiDB/lib"
 	"github.com/salemmohammed/PaxiDB/log"
 	"io"
