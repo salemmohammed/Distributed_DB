@@ -7,5 +7,5 @@ import (
 )
 
 func TestPaxos(t *testing.T) {
-	paxi.Simulation()
+	PaxiDB.Simulation()
 }
